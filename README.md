@@ -15,12 +15,14 @@ We use JavaScript for the UI and Flask for the backend..<br />
 4. **Bias Detection**: The model detects and categorizes the level of bias present in the text.
 5. **Display Results**: Shows the bias rating and relevant suggestions, if any.
 
-<img src="https://github.com/varunsly/NewsBiasDetection/tree/main/NewsBiasApp/images/flow.jpg" alt="drawing" width="300"/><br/>
-# Screenshots
-<br />
+![Flow Diagram](NewsBiasApp/images/flow.jpg)
 
-![alt text](https://github.com/varunsly/NewsBiasDetection/tree/main/NewsBiasApp/images/Screenshot%201.jpg)
-<br />
+## Screenshots
+
+
+![Screenshot 1](NewsBiasApp/images/Screenshot 1.jpg)
+
+
 - **Example**: Categorized news bias displayed in user-friendly UI components.
-![alt text](https://github.com/varunsly/NewsBiasDetection/tree/main/NewsBiasApp/images/Screenshot%202.jpg)
+![Screenshot 2](NewsBiasApp/images/Screenshot 2.jpg)
 
