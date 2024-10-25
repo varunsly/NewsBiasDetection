@@ -20,9 +20,9 @@ We use JavaScript for the UI and Flask for the backend..<br />
 ## Screenshots
 
 
-![Screenshot 1](NewsBiasApp/images/Screenshot 1.jpg)
+![Screenshot 1](NewsBiasApp/images/Screenshot1.jpg)
 
 
 - **Example**: Categorized news bias displayed in user-friendly UI components.
-![Screenshot 2](NewsBiasApp/images/Screenshot 2.jpg)
+![Screenshot 2](NewsBiasApp/images/Screenshot2.jpg)
 
